@@ -5,3 +5,7 @@ __pycache__/
 data/
 .env
 .DS_Store
+
+models/*.h5
+data/raw/
+data/processed/
